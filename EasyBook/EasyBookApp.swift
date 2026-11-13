@@ -11,7 +11,7 @@ import SwiftUI
 struct EasyBookApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnBoardingScreen()
         }
     }
 }
